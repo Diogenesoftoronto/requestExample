@@ -1,0 +1,19 @@
+{
+  "name": "requestexample",
+  "version": "1.0.0",
+  "description": "request by example",
+  "main": "requestExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogenesoftoronto/requestExample.git"
+  },
+  "author": "Dio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diogenesoftoronto/requestExample/issues"
+  },
+  "homepage": "https://github.com/Diogenesoftoronto/requestExample#readme"
+}
