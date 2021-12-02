@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Diogenesoftoronto/requestExample/issues"
   },
-  "homepage": "https://github.com/Diogenesoftoronto/requestExample#readme"
+  "homepage": "https://github.com/Diogenesoftoronto/requestExample#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
